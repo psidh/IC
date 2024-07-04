@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "node.c"
+#include "../lib/node.c"
 
 // core logic
 //_________________________________________________________________
