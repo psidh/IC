@@ -5,7 +5,13 @@ This repository hosts the solutions to various LeetCode and internal problems sh
 
 ## Agenda
 ### Day One
-Problem: Develop a psuedocode that finds the middle most element from a linked list. 
-Limits: Memory: O(N)
-        Time: O(1)
-Solution: `day-one/linked_list_middle_element.c`
+
+**Problem:** Develop a psuedocode that finds the middle most element from a linked list. 
+
+- Constraints
+
+        - Space Complexity: O(1)
+  
+        - Time Complexity: O(N)
+        
+**Solution:** `day-one/linked_list_middle_element.c`
